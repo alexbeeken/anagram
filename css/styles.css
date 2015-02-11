@@ -1,0 +1,12 @@
+#result {
+  display: none;
+  /*padding-right: 5px;
+  width: 100%;
+  height: 100%;
+  float: left;
+  text-wrap: normal;*/
+}
+
+body {
+  background-color: green;
+}
